@@ -32,14 +32,14 @@ The following glyphs do not have the recommended number of contours:
 
 
 * ⚠ **WARN** The following spacing glyphs may be in the GDEF mark glyph class by mistake:
-	 uniA880 (U+A880), uniA881 (U+A881), uniA8B5 (U+A8B5), uniA8B7 (U+A8B7), uniA8B8 (U+A8B8), uniA8B9 (U+A8B9), uniA8BA (U+A8BA), uniA8BB (U+A8BB), uniA8BC (U+A8BC), uniA8BD (U+A8BD) and 6 more.
+	 uniA880 (U+A880), uniA881 (U+A881), uniA8B7 (U+A8B7), uniA8B8 (U+A8B8), uniA8B9 (U+A8B9), uniA8BA (U+A8BA), uniA8BB (U+A8BB), uniA8BC (U+A8BC), uniA8BD (U+A8BD), uniA8BE (U+A8BE) and 5 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: spacing-mark-glyphs]
 </div></details><details><summary>⚠ <b>WARN:</b> Check GDEF mark glyph class doesn't have characters that are not marks. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_non_mark_chars">com.google.fonts/check/gdef_non_mark_chars</a>)</summary><div>
 
 
 * ⚠ **WARN** The following non-mark characters should not be in the GDEF mark glyph class:
-	 U+A880, U+A881, U+A8B5, U+A8B6, U+A8B7, U+A8B8, U+A8B9, U+A8BA, U+A8BB, U+A8BC and 7 more.
+	 U+A880, U+A881, U+A8B6, U+A8B7, U+A8B8, U+A8B9, U+A8BA, U+A8BB, U+A8BC, U+A8BD and 6 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: non-mark-chars]
 </div></details><br></div></details>
