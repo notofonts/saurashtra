@@ -1,0 +1,10 @@
+{
+    "tests": [
+        {
+            "expectation": "uniA8A5=0+694|uniA8C4=0@95,0+0|uniA8B4=0+373",
+            "input": "ꢥꢴ꣄",
+            "note": "#2",
+            "only": "NotoSansSaurashtra-Regular.ttf"
+        }
+    ]
+}
