@@ -274,7 +274,7 @@ name = Swaps;
 );
 features = (
 {
-code = "lookup LigatureSubstitution1 {\012    lookupflag 0;\012    ;\012    # Original source: GSUB 0 <features>:10:5 LigatureSubstitution1 \012    sub uniA892 uniA8C4 uni200D uniA8B0 by uniA892A8B0;\012    sub uniA8A1 uniA8C4 uni200D uniA8AB by uniA8A1A8AB;\012    sub uniA8AF uniA8C4 uni200D uniA8AC by uniA8AFA8AC;\012    sub uniA8B0 uniA8C4 uni200D uniA89C uniA8C4 uni200D uniA8AC by uniA8B0A89CA8AC;\012    sub uniA8B0 uniA8C4 uni200D uniA89D by uniA8B0A89D;\012} LigatureSubstitution1;\012";
+code = "# Swap haaru and virama\012sub uniA8B4' lookup HaaruViramaSwap uniA8C4' lookup HaaruViramaSwap;\012\012lookup LigatureSubstitution1 {\012    lookupflag 0;\012    ;\012    # Original source: GSUB 0 <features>:10:5 LigatureSubstitution1 \012    sub uniA892 uniA8C4 uni200D uniA8B0 by uniA892A8B0;\012    sub uniA8A1 uniA8C4 uni200D uniA8AB by uniA8A1A8AB;\012    sub uniA8AF uniA8C4 uni200D uniA8AC by uniA8AFA8AC;\012    sub uniA8B0 uniA8C4 uni200D uniA89C uniA8C4 uni200D uniA8AC by uniA8B0A89CA8AC;\012    sub uniA8B0 uniA8C4 uni200D uniA89D by uniA8B0A89D;\012} LigatureSubstitution1;\012";
 name = ccmp;
 },
 {
