@@ -5,6 +5,12 @@
             "input": "ꢥꢴ꣄",
             "note": "#2",
             "only": "NotoSansSaurashtra-Regular.ttf"
+        },
+        {
+            "expectation": "uniA882=0+682|uniA880=0+377|uniA894=2+734|space=3+286|uniA882=4+682|uniA881=4+386|uniA894=6+734",
+            "input": "ꢂꢀꢔ ꢂꢁꢔ",
+            "note": "#3",
+            "only": "NotoSansSaurashtra-Regular.ttf"
         }
     ]
 }
