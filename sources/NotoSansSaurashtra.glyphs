@@ -5600,6 +5600,8 @@ width = 517;
 }
 );
 unicode = A8B5;
+category = Letter;
+subCategory = Other;
 },
 {
 glyphname = uniA8B6;
