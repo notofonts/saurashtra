@@ -5706,6 +5706,8 @@ width = 402;
 }
 );
 unicode = A8B7;
+category = Mark;
+subCategory = Spacing;
 },
 {
 glyphname = uniA8B8;
@@ -5795,6 +5797,8 @@ width = 558;
 }
 );
 unicode = A8B8;
+category = Mark;
+subCategory = Spacing;
 },
 {
 glyphname = uniA8B9;
@@ -5894,6 +5898,8 @@ width = 548;
 }
 );
 unicode = A8B9;
+category = Mark;
+subCategory = Spacing;
 },
 {
 glyphname = uniA8BA;
@@ -5987,6 +5993,8 @@ width = 593;
 }
 );
 unicode = A8BA;
+category = Mark;
+subCategory = Spacing;
 },
 {
 glyphname = uniA8BB;
@@ -6122,6 +6130,8 @@ width = 590;
 }
 );
 unicode = A8BB;
+category = Mark;
+subCategory = Spacing;
 },
 {
 glyphname = uniA8BC;
@@ -6207,6 +6217,8 @@ width = 891;
 }
 );
 unicode = A8BC;
+category = Mark;
+subCategory = Spacing;
 },
 {
 glyphname = uniA8BD;
@@ -6317,6 +6329,8 @@ width = 896;
 }
 );
 unicode = A8BD;
+category = Mark;
+subCategory = Spacing;
 },
 {
 glyphname = uniA8BE;
@@ -6371,6 +6385,8 @@ width = 448;
 }
 );
 unicode = A8BE;
+category = Mark;
+subCategory = Spacing;
 },
 {
 glyphname = uniA8BF;
@@ -6440,6 +6456,8 @@ width = 567;
 }
 );
 unicode = A8BF;
+category = Mark;
+subCategory = Spacing;
 },
 {
 glyphname = uniA8C0;
@@ -6519,6 +6537,8 @@ width = 449;
 }
 );
 unicode = A8C0;
+category = Mark;
+subCategory = Spacing;
 },
 {
 glyphname = uniA8C1;
@@ -6596,6 +6616,8 @@ width = 507;
 }
 );
 unicode = A8C1;
+category = Mark;
+subCategory = Spacing;
 },
 {
 glyphname = uniA8C2;
@@ -6666,6 +6688,8 @@ width = 672;
 }
 );
 unicode = A8C2;
+category = Mark;
+subCategory = Spacing;
 },
 {
 glyphname = uniA8C3;
@@ -6790,6 +6814,8 @@ width = 785;
 }
 );
 unicode = A8C3;
+category = Mark;
+subCategory = Spacing;
 },
 {
 glyphname = uniA8C4;
