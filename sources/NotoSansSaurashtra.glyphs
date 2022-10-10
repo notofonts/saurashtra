@@ -76,7 +76,7 @@ value = (
 },
 {
 name = openTypeNameVersion;
-value = "Version 2.001";
+value = "Version 2.002";
 },
 {
 name = codePageRanges;
@@ -8806,5 +8806,5 @@ com.schriftgestaltung.Glyphs.groupsNotInFeature = (
 );
 };
 versionMajor = 2;
-versionMinor = 1;
+versionMinor = 2;
 }
