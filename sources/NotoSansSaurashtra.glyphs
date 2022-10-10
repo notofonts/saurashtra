@@ -239,10 +239,6 @@ name = vendorID;
 value = GOOG;
 },
 {
-name = versionString;
-value = "Version 2.001";
-},
-{
 name = Axes;
 value = (
 {
@@ -375,14 +371,6 @@ value = "Designed by Monotype design team.";
 {
 name = vendorID;
 value = GOOG;
-},
-{
-name = versionString;
-value = "Version 2.001";
-},
-{
-name = openTypeNameVersion;
-value = "Version 2.001";
 },
 {
 name = codePageRanges;
